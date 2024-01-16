@@ -20,6 +20,10 @@ Espero poco a poco seguir aprendiendo y disfrutando de este maravilloso (y frust
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+## Lenguajes utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachoSeca&layout=compact)
+
 ## Puedes encontrarme en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-secaduras)
