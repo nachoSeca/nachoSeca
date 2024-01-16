@@ -14,5 +14,16 @@ Espero poco a poco seguir aprendiendo y disfrutando de este maravilloso (y frust
 ## Tecnologías
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+</br>
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+## Puedes encontrarme en
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio_Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ignacio-s%C3%A1nchez-secaduras)
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/secaduras87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:secaduras87@gmail.com)
